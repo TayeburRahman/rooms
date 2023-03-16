@@ -24,6 +24,6 @@ Features:
 
 Live Link:
 
-👉 Project: https://rooms-frontend-beta.vercel.app/
+👉 Project: https://rooms00.vercel.app/
 
 👉 Admin Dashboard: https://rooms-dashboard.vercel.app/ (email="admin0@gmail.com", password="admin@0")
